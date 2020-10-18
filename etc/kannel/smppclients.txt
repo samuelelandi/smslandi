@@ -1,0 +1,9 @@
+# USERS/PWD ENABLE TO CONNECT TO KANNEL AS SMPP CLIENTS (3TH COLUMN IS THE
+# "SYSSTEM TYPE" THAT MUST MUCH WHAT YOU SET IN THE CLIENT
+smsuser secretpwd transceiver *.*.*.*
+smsppu  secretpwd SMPP *.*.*.*
+sms001  secretpwd transceiver *.*.*.*
+sms001  secretpwd transceiver *.*.*.*
+
+
+
